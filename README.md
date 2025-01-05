@@ -1,4 +1,4 @@
-# vs-code-theme
+# vs-code-config
 Workspace configuration and Custom VS code theme
 
 # How to setup workspace in VS-Code 
